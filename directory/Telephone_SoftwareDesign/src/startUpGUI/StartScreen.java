@@ -76,5 +76,6 @@ public class StartScreen extends JFrame {
 		lblUsingHashTable.setFont(new Font("Times New Roman", Font.BOLD | Font.ITALIC, 18));
 		lblUsingHashTable.setBounds(153, 169, 152, 64);
 		frmStartUpPage.getContentPane().add(lblUsingHashTable);
+		
 	}
 }
