@@ -1,5 +1,6 @@
 package hashtable;
 
+
 import javax.swing.JOptionPane;
 
 public class DialogMessage {
